@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Chaotic Force]]></title>
         <description><![CDATA[Chaotic Force]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/chaotic-force/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 22 Oct 2015 08:59:20 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 23 Oct 2015 06:11:35 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/chaotic-force/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Google Says It Will Not De-List Entire Sites For Copyright Violations]]></title>
+            <description><![CDATA[<article><h1>Google Says It Will Not De-List Entire Sites For Copyright Violations</h1><p>In an open letter to the Office and Management and Budget's Intellectual Property Enforcement Coordinator, Google announced today that it opposes the practice of removing entire sites from search results. Google's letter is in response to a public solicitation by Daniel H. Marti, the United States Intellectual Property Enforcement Coordinator.</p><img src="https://tctechcrunch2011.files.wordpress.com/2015/10/2856173673_27b7e5e521_o.jpg?w=738"></article>]]></description>
+            <link>http://techcrunch.com/2015/10/22/google-search-no-to-whole-site/</link>
+            <guid isPermaLink="false">63f74eb2-f456-4d45-8c06-16a775b477bf</guid>
+            <pubDate>Fri, 23 Oct 2015 06:10:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Unity - Game engine, tools and multiplatform]]></title>
             <description><![CDATA[<article><h1>Unity - Game engine, tools and multiplatform</h1><p>What is Unity? Experience polished, end-to-end multiplatform development. Confidently target today's hottest platforms and the ones that will shape the future. Efficiently optimize performance with cross-platform tools and deploy with near one-click ease. More about multiplatform Get the best of both worlds with Unity: high-end tools in a ready-made solution that's also intuitive to use and deeply customizable.</p><img src="https://unity3d.com/profiles/unity3d/themes/unity/images/unity/overview/learn-assets.jpg"></article>]]></description>
